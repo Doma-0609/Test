@@ -1,6 +1,6 @@
 script_key = "QXoQVLGnhMFeSDHVgOfUGzjYPDhHwwrc"
 getgenv().Team = "Pirates"
-getgenv().Config= { -- Select Weapon, Self Explain
+getgenv().Setting = { -- Select Weapon, Self Explain
         ["Melee"] = {
             ["Enable"] = true,
             ["Delay"] = 3,
